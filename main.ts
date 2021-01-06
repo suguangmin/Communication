@@ -193,8 +193,8 @@ enum run_turn {
     reverse = 1,
 }
 
-// //% color="#FFA500" weight=10 icon="\uf2c9" block="Sensor:bit"
-// namespace sensors {
+//% color="#FFA500" weight=10 icon="\uf2c9" block="Sensor:bit"
+namespace sensors {
     
     /**
      * 红外发射
@@ -477,4 +477,4 @@ enum run_turn {
 
 
 
-//}
+}
