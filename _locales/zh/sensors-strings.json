@@ -1,5 +1,5 @@
 {
-    "Communication|block": "Sensor:bit",
+    "Communication|block": "Communication",
     "Communication.setIR_pin|block": "红外线发射脚位: %myPin",
     "Communication.setREC_pin|block": "红外线接收脚位: %myPin",
     "Communication.sendMyMessage1|block": "发射红外信号: %msg| ,发射次数： %times| 次, 编码:%myType",

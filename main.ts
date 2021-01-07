@@ -67,7 +67,7 @@ enum IrPins {
     P20 = 30,
 }
 
-//% color="#FFA500" weight=10 icon="\uf2c9" block="Sensor:bit"
+//% color="#FFA500" weight=10 icon="\uf2c9" block="Communication"
 namespace Communication {
     
     /**
