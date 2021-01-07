@@ -11,7 +11,7 @@
         "main.ts",
         "TransmitterIR.cpp",
         "TransmitterIR.h",
-		"_locales/zh/sensors-strings.json"
+		"_locales/zh/communication-strings.json"
 		
     ],
     "public": true
